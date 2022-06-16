@@ -1,2 +1,2 @@
 # Zuri Internship - Django {URLs}
-A task given by python
+A task given by zuri
